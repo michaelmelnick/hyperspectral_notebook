@@ -6,8 +6,10 @@
 rpy2-arrow==0.0.7
 
 # Hyperspectral imaging
+# gdal
 spectral==0.23.1
 pysptools
+
 
 # Image manipulation
 pillow==9.4.0
