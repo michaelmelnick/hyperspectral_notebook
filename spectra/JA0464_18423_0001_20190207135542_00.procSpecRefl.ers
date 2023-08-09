@@ -1,0 +1,1576 @@
+DatasetHeader Begin
+Description = "Corescan Pty Ltd, Hyperspectral Data, filename="
+Name = "JA0464_18423_0001_20190207135542_00.procSpecRefl.ers"
+SensorName = "HCI_3I_REV02"
+Version = "6.0"
+DataSetType = ERStorage
+DataType = Raster
+ByteOrder = LSBFirst
+DataFile = "JA0464_18423_0001_20190207135542_00.procSpecRefl.bin"
+CoordinateSpace Begin
+Datum = "RAW"
+Projection = "RAW"
+CoordinateType = EN
+Rotation = 0:0:0.0
+Units = "METERS"
+CoordinateSpace End
+RasterInfo Begin
+NrOfLines = 1250
+NrOfCellsPerLine = 100
+NrOfBands = 514
+RegistrationCellX = 50
+RegistrationCellY = 1250
+CellType = IEEE4ByteReal
+NullCellValue = -9999
+CellInfo Begin
+Xdimension = 0.0005
+Ydimension = 0.0005
+CellInfo End
+RegistrationCoord Begin
+Eastings = 0
+Northings = -44.8205000000421
+RegistrationCoord End
+BandId Begin
+Value = "448.00"
+BandId End
+BandId Begin
+Value = "452.00"
+BandId End
+BandId Begin
+Value = "456.00"
+BandId End
+BandId Begin
+Value = "460.00"
+BandId End
+BandId Begin
+Value = "464.00"
+BandId End
+BandId Begin
+Value = "468.00"
+BandId End
+BandId Begin
+Value = "472.00"
+BandId End
+BandId Begin
+Value = "476.00"
+BandId End
+BandId Begin
+Value = "480.00"
+BandId End
+BandId Begin
+Value = "484.00"
+BandId End
+BandId Begin
+Value = "488.00"
+BandId End
+BandId Begin
+Value = "492.00"
+BandId End
+BandId Begin
+Value = "496.00"
+BandId End
+BandId Begin
+Value = "500.00"
+BandId End
+BandId Begin
+Value = "504.00"
+BandId End
+BandId Begin
+Value = "508.00"
+BandId End
+BandId Begin
+Value = "512.00"
+BandId End
+BandId Begin
+Value = "516.00"
+BandId End
+BandId Begin
+Value = "520.00"
+BandId End
+BandId Begin
+Value = "524.00"
+BandId End
+BandId Begin
+Value = "528.00"
+BandId End
+BandId Begin
+Value = "532.00"
+BandId End
+BandId Begin
+Value = "536.00"
+BandId End
+BandId Begin
+Value = "540.00"
+BandId End
+BandId Begin
+Value = "544.00"
+BandId End
+BandId Begin
+Value = "548.00"
+BandId End
+BandId Begin
+Value = "552.00"
+BandId End
+BandId Begin
+Value = "556.00"
+BandId End
+BandId Begin
+Value = "560.00"
+BandId End
+BandId Begin
+Value = "564.00"
+BandId End
+BandId Begin
+Value = "568.00"
+BandId End
+BandId Begin
+Value = "572.00"
+BandId End
+BandId Begin
+Value = "576.00"
+BandId End
+BandId Begin
+Value = "580.00"
+BandId End
+BandId Begin
+Value = "584.00"
+BandId End
+BandId Begin
+Value = "588.00"
+BandId End
+BandId Begin
+Value = "592.00"
+BandId End
+BandId Begin
+Value = "596.00"
+BandId End
+BandId Begin
+Value = "600.00"
+BandId End
+BandId Begin
+Value = "604.00"
+BandId End
+BandId Begin
+Value = "608.00"
+BandId End
+BandId Begin
+Value = "612.00"
+BandId End
+BandId Begin
+Value = "616.00"
+BandId End
+BandId Begin
+Value = "620.00"
+BandId End
+BandId Begin
+Value = "624.00"
+BandId End
+BandId Begin
+Value = "628.00"
+BandId End
+BandId Begin
+Value = "632.00"
+BandId End
+BandId Begin
+Value = "636.00"
+BandId End
+BandId Begin
+Value = "640.00"
+BandId End
+BandId Begin
+Value = "644.00"
+BandId End
+BandId Begin
+Value = "648.00"
+BandId End
+BandId Begin
+Value = "652.00"
+BandId End
+BandId Begin
+Value = "656.00"
+BandId End
+BandId Begin
+Value = "660.00"
+BandId End
+BandId Begin
+Value = "664.00"
+BandId End
+BandId Begin
+Value = "668.00"
+BandId End
+BandId Begin
+Value = "672.00"
+BandId End
+BandId Begin
+Value = "676.00"
+BandId End
+BandId Begin
+Value = "680.00"
+BandId End
+BandId Begin
+Value = "684.00"
+BandId End
+BandId Begin
+Value = "688.00"
+BandId End
+BandId Begin
+Value = "692.00"
+BandId End
+BandId Begin
+Value = "696.00"
+BandId End
+BandId Begin
+Value = "700.00"
+BandId End
+BandId Begin
+Value = "704.00"
+BandId End
+BandId Begin
+Value = "708.00"
+BandId End
+BandId Begin
+Value = "712.00"
+BandId End
+BandId Begin
+Value = "716.00"
+BandId End
+BandId Begin
+Value = "720.00"
+BandId End
+BandId Begin
+Value = "724.00"
+BandId End
+BandId Begin
+Value = "728.00"
+BandId End
+BandId Begin
+Value = "732.00"
+BandId End
+BandId Begin
+Value = "736.00"
+BandId End
+BandId Begin
+Value = "740.00"
+BandId End
+BandId Begin
+Value = "744.00"
+BandId End
+BandId Begin
+Value = "748.00"
+BandId End
+BandId Begin
+Value = "752.00"
+BandId End
+BandId Begin
+Value = "756.00"
+BandId End
+BandId Begin
+Value = "760.00"
+BandId End
+BandId Begin
+Value = "764.00"
+BandId End
+BandId Begin
+Value = "768.00"
+BandId End
+BandId Begin
+Value = "772.00"
+BandId End
+BandId Begin
+Value = "776.00"
+BandId End
+BandId Begin
+Value = "780.00"
+BandId End
+BandId Begin
+Value = "784.00"
+BandId End
+BandId Begin
+Value = "788.00"
+BandId End
+BandId Begin
+Value = "792.00"
+BandId End
+BandId Begin
+Value = "796.00"
+BandId End
+BandId Begin
+Value = "800.00"
+BandId End
+BandId Begin
+Value = "804.00"
+BandId End
+BandId Begin
+Value = "808.00"
+BandId End
+BandId Begin
+Value = "812.00"
+BandId End
+BandId Begin
+Value = "816.00"
+BandId End
+BandId Begin
+Value = "820.00"
+BandId End
+BandId Begin
+Value = "824.00"
+BandId End
+BandId Begin
+Value = "828.00"
+BandId End
+BandId Begin
+Value = "832.00"
+BandId End
+BandId Begin
+Value = "836.00"
+BandId End
+BandId Begin
+Value = "840.00"
+BandId End
+BandId Begin
+Value = "844.00"
+BandId End
+BandId Begin
+Value = "848.00"
+BandId End
+BandId Begin
+Value = "852.00"
+BandId End
+BandId Begin
+Value = "856.00"
+BandId End
+BandId Begin
+Value = "860.00"
+BandId End
+BandId Begin
+Value = "864.00"
+BandId End
+BandId Begin
+Value = "868.00"
+BandId End
+BandId Begin
+Value = "872.00"
+BandId End
+BandId Begin
+Value = "876.00"
+BandId End
+BandId Begin
+Value = "880.00"
+BandId End
+BandId Begin
+Value = "884.00"
+BandId End
+BandId Begin
+Value = "888.00"
+BandId End
+BandId Begin
+Value = "892.00"
+BandId End
+BandId Begin
+Value = "896.00"
+BandId End
+BandId Begin
+Value = "900.00"
+BandId End
+BandId Begin
+Value = "904.00"
+BandId End
+BandId Begin
+Value = "908.00"
+BandId End
+BandId Begin
+Value = "912.00"
+BandId End
+BandId Begin
+Value = "916.00"
+BandId End
+BandId Begin
+Value = "920.00"
+BandId End
+BandId Begin
+Value = "924.00"
+BandId End
+BandId Begin
+Value = "928.00"
+BandId End
+BandId Begin
+Value = "932.00"
+BandId End
+BandId Begin
+Value = "936.00"
+BandId End
+BandId Begin
+Value = "940.00"
+BandId End
+BandId Begin
+Value = "944.00"
+BandId End
+BandId Begin
+Value = "948.00"
+BandId End
+BandId Begin
+Value = "952.00"
+BandId End
+BandId Begin
+Value = "956.00"
+BandId End
+BandId Begin
+Value = "960.00"
+BandId End
+BandId Begin
+Value = "964.00"
+BandId End
+BandId Begin
+Value = "968.00"
+BandId End
+BandId Begin
+Value = "972.00"
+BandId End
+BandId Begin
+Value = "976.00"
+BandId End
+BandId Begin
+Value = "980.00"
+BandId End
+BandId Begin
+Value = "984.00"
+BandId End
+BandId Begin
+Value = "988.00"
+BandId End
+BandId Begin
+Value = "992.00"
+BandId End
+BandId Begin
+Value = "996.00"
+BandId End
+BandId Begin
+Value = "1000.00"
+BandId End
+BandId Begin
+Value = "1004.00"
+BandId End
+BandId Begin
+Value = "1008.00"
+BandId End
+BandId Begin
+Value = "1012.00"
+BandId End
+BandId Begin
+Value = "1016.00"
+BandId End
+BandId Begin
+Value = "1020.00"
+BandId End
+BandId Begin
+Value = "1024.00"
+BandId End
+BandId Begin
+Value = "1028.00"
+BandId End
+BandId Begin
+Value = "1032.00"
+BandId End
+BandId Begin
+Value = "1036.00"
+BandId End
+BandId Begin
+Value = "1040.00"
+BandId End
+BandId Begin
+Value = "1044.00"
+BandId End
+BandId Begin
+Value = "1048.00"
+BandId End
+BandId Begin
+Value = "1052.00"
+BandId End
+BandId Begin
+Value = "1056.00"
+BandId End
+BandId Begin
+Value = "1060.00"
+BandId End
+BandId Begin
+Value = "1064.00"
+BandId End
+BandId Begin
+Value = "1068.00"
+BandId End
+BandId Begin
+Value = "1072.00"
+BandId End
+BandId Begin
+Value = "1076.00"
+BandId End
+BandId Begin
+Value = "1080.00"
+BandId End
+BandId Begin
+Value = "1084.00"
+BandId End
+BandId Begin
+Value = "1088.00"
+BandId End
+BandId Begin
+Value = "1092.00"
+BandId End
+BandId Begin
+Value = "1096.00"
+BandId End
+BandId Begin
+Value = "1100.00"
+BandId End
+BandId Begin
+Value = "1104.00"
+BandId End
+BandId Begin
+Value = "1108.00"
+BandId End
+BandId Begin
+Value = "1112.00"
+BandId End
+BandId Begin
+Value = "1116.00"
+BandId End
+BandId Begin
+Value = "1120.00"
+BandId End
+BandId Begin
+Value = "1124.00"
+BandId End
+BandId Begin
+Value = "1128.00"
+BandId End
+BandId Begin
+Value = "1132.00"
+BandId End
+BandId Begin
+Value = "1136.00"
+BandId End
+BandId Begin
+Value = "1140.00"
+BandId End
+BandId Begin
+Value = "1144.00"
+BandId End
+BandId Begin
+Value = "1148.00"
+BandId End
+BandId Begin
+Value = "1152.00"
+BandId End
+BandId Begin
+Value = "1156.00"
+BandId End
+BandId Begin
+Value = "1160.00"
+BandId End
+BandId Begin
+Value = "1164.00"
+BandId End
+BandId Begin
+Value = "1168.00"
+BandId End
+BandId Begin
+Value = "1172.00"
+BandId End
+BandId Begin
+Value = "1176.00"
+BandId End
+BandId Begin
+Value = "1180.00"
+BandId End
+BandId Begin
+Value = "1184.00"
+BandId End
+BandId Begin
+Value = "1188.00"
+BandId End
+BandId Begin
+Value = "1192.00"
+BandId End
+BandId Begin
+Value = "1196.00"
+BandId End
+BandId Begin
+Value = "1200.00"
+BandId End
+BandId Begin
+Value = "1204.00"
+BandId End
+BandId Begin
+Value = "1208.00"
+BandId End
+BandId Begin
+Value = "1212.00"
+BandId End
+BandId Begin
+Value = "1216.00"
+BandId End
+BandId Begin
+Value = "1220.00"
+BandId End
+BandId Begin
+Value = "1224.00"
+BandId End
+BandId Begin
+Value = "1228.00"
+BandId End
+BandId Begin
+Value = "1232.00"
+BandId End
+BandId Begin
+Value = "1236.00"
+BandId End
+BandId Begin
+Value = "1240.00"
+BandId End
+BandId Begin
+Value = "1244.00"
+BandId End
+BandId Begin
+Value = "1248.00"
+BandId End
+BandId Begin
+Value = "1252.00"
+BandId End
+BandId Begin
+Value = "1256.00"
+BandId End
+BandId Begin
+Value = "1260.00"
+BandId End
+BandId Begin
+Value = "1264.00"
+BandId End
+BandId Begin
+Value = "1268.00"
+BandId End
+BandId Begin
+Value = "1272.00"
+BandId End
+BandId Begin
+Value = "1276.00"
+BandId End
+BandId Begin
+Value = "1280.00"
+BandId End
+BandId Begin
+Value = "1284.00"
+BandId End
+BandId Begin
+Value = "1288.00"
+BandId End
+BandId Begin
+Value = "1292.00"
+BandId End
+BandId Begin
+Value = "1296.00"
+BandId End
+BandId Begin
+Value = "1300.00"
+BandId End
+BandId Begin
+Value = "1304.00"
+BandId End
+BandId Begin
+Value = "1308.00"
+BandId End
+BandId Begin
+Value = "1312.00"
+BandId End
+BandId Begin
+Value = "1316.00"
+BandId End
+BandId Begin
+Value = "1320.00"
+BandId End
+BandId Begin
+Value = "1324.00"
+BandId End
+BandId Begin
+Value = "1328.00"
+BandId End
+BandId Begin
+Value = "1332.00"
+BandId End
+BandId Begin
+Value = "1336.00"
+BandId End
+BandId Begin
+Value = "1340.00"
+BandId End
+BandId Begin
+Value = "1344.00"
+BandId End
+BandId Begin
+Value = "1348.00"
+BandId End
+BandId Begin
+Value = "1352.00"
+BandId End
+BandId Begin
+Value = "1356.00"
+BandId End
+BandId Begin
+Value = "1360.00"
+BandId End
+BandId Begin
+Value = "1364.00"
+BandId End
+BandId Begin
+Value = "1368.00"
+BandId End
+BandId Begin
+Value = "1372.00"
+BandId End
+BandId Begin
+Value = "1376.00"
+BandId End
+BandId Begin
+Value = "1380.00"
+BandId End
+BandId Begin
+Value = "1384.00"
+BandId End
+BandId Begin
+Value = "1388.00"
+BandId End
+BandId Begin
+Value = "1392.00"
+BandId End
+BandId Begin
+Value = "1396.00"
+BandId End
+BandId Begin
+Value = "1400.00"
+BandId End
+BandId Begin
+Value = "1404.00"
+BandId End
+BandId Begin
+Value = "1408.00"
+BandId End
+BandId Begin
+Value = "1412.00"
+BandId End
+BandId Begin
+Value = "1416.00"
+BandId End
+BandId Begin
+Value = "1420.00"
+BandId End
+BandId Begin
+Value = "1424.00"
+BandId End
+BandId Begin
+Value = "1428.00"
+BandId End
+BandId Begin
+Value = "1432.00"
+BandId End
+BandId Begin
+Value = "1436.00"
+BandId End
+BandId Begin
+Value = "1440.00"
+BandId End
+BandId Begin
+Value = "1444.00"
+BandId End
+BandId Begin
+Value = "1448.00"
+BandId End
+BandId Begin
+Value = "1452.00"
+BandId End
+BandId Begin
+Value = "1456.00"
+BandId End
+BandId Begin
+Value = "1460.00"
+BandId End
+BandId Begin
+Value = "1464.00"
+BandId End
+BandId Begin
+Value = "1468.00"
+BandId End
+BandId Begin
+Value = "1472.00"
+BandId End
+BandId Begin
+Value = "1476.00"
+BandId End
+BandId Begin
+Value = "1480.00"
+BandId End
+BandId Begin
+Value = "1484.00"
+BandId End
+BandId Begin
+Value = "1488.00"
+BandId End
+BandId Begin
+Value = "1492.00"
+BandId End
+BandId Begin
+Value = "1496.00"
+BandId End
+BandId Begin
+Value = "1500.00"
+BandId End
+BandId Begin
+Value = "1504.00"
+BandId End
+BandId Begin
+Value = "1508.00"
+BandId End
+BandId Begin
+Value = "1512.00"
+BandId End
+BandId Begin
+Value = "1516.00"
+BandId End
+BandId Begin
+Value = "1520.00"
+BandId End
+BandId Begin
+Value = "1524.00"
+BandId End
+BandId Begin
+Value = "1528.00"
+BandId End
+BandId Begin
+Value = "1532.00"
+BandId End
+BandId Begin
+Value = "1536.00"
+BandId End
+BandId Begin
+Value = "1540.00"
+BandId End
+BandId Begin
+Value = "1544.00"
+BandId End
+BandId Begin
+Value = "1548.00"
+BandId End
+BandId Begin
+Value = "1552.00"
+BandId End
+BandId Begin
+Value = "1556.00"
+BandId End
+BandId Begin
+Value = "1560.00"
+BandId End
+BandId Begin
+Value = "1564.00"
+BandId End
+BandId Begin
+Value = "1568.00"
+BandId End
+BandId Begin
+Value = "1572.00"
+BandId End
+BandId Begin
+Value = "1576.00"
+BandId End
+BandId Begin
+Value = "1580.00"
+BandId End
+BandId Begin
+Value = "1584.00"
+BandId End
+BandId Begin
+Value = "1588.00"
+BandId End
+BandId Begin
+Value = "1592.00"
+BandId End
+BandId Begin
+Value = "1596.00"
+BandId End
+BandId Begin
+Value = "1600.00"
+BandId End
+BandId Begin
+Value = "1604.00"
+BandId End
+BandId Begin
+Value = "1608.00"
+BandId End
+BandId Begin
+Value = "1612.00"
+BandId End
+BandId Begin
+Value = "1616.00"
+BandId End
+BandId Begin
+Value = "1620.00"
+BandId End
+BandId Begin
+Value = "1624.00"
+BandId End
+BandId Begin
+Value = "1628.00"
+BandId End
+BandId Begin
+Value = "1632.00"
+BandId End
+BandId Begin
+Value = "1636.00"
+BandId End
+BandId Begin
+Value = "1640.00"
+BandId End
+BandId Begin
+Value = "1644.00"
+BandId End
+BandId Begin
+Value = "1648.00"
+BandId End
+BandId Begin
+Value = "1652.00"
+BandId End
+BandId Begin
+Value = "1656.00"
+BandId End
+BandId Begin
+Value = "1660.00"
+BandId End
+BandId Begin
+Value = "1664.00"
+BandId End
+BandId Begin
+Value = "1668.00"
+BandId End
+BandId Begin
+Value = "1672.00"
+BandId End
+BandId Begin
+Value = "1676.00"
+BandId End
+BandId Begin
+Value = "1680.00"
+BandId End
+BandId Begin
+Value = "1684.00"
+BandId End
+BandId Begin
+Value = "1688.00"
+BandId End
+BandId Begin
+Value = "1692.00"
+BandId End
+BandId Begin
+Value = "1696.00"
+BandId End
+BandId Begin
+Value = "1700.00"
+BandId End
+BandId Begin
+Value = "1704.00"
+BandId End
+BandId Begin
+Value = "1708.00"
+BandId End
+BandId Begin
+Value = "1712.00"
+BandId End
+BandId Begin
+Value = "1716.00"
+BandId End
+BandId Begin
+Value = "1720.00"
+BandId End
+BandId Begin
+Value = "1724.00"
+BandId End
+BandId Begin
+Value = "1728.00"
+BandId End
+BandId Begin
+Value = "1732.00"
+BandId End
+BandId Begin
+Value = "1736.00"
+BandId End
+BandId Begin
+Value = "1740.00"
+BandId End
+BandId Begin
+Value = "1744.00"
+BandId End
+BandId Begin
+Value = "1748.00"
+BandId End
+BandId Begin
+Value = "1752.00"
+BandId End
+BandId Begin
+Value = "1756.00"
+BandId End
+BandId Begin
+Value = "1760.00"
+BandId End
+BandId Begin
+Value = "1764.00"
+BandId End
+BandId Begin
+Value = "1768.00"
+BandId End
+BandId Begin
+Value = "1772.00"
+BandId End
+BandId Begin
+Value = "1776.00"
+BandId End
+BandId Begin
+Value = "1780.00"
+BandId End
+BandId Begin
+Value = "1784.00"
+BandId End
+BandId Begin
+Value = "1788.00"
+BandId End
+BandId Begin
+Value = "1792.00"
+BandId End
+BandId Begin
+Value = "1796.00"
+BandId End
+BandId Begin
+Value = "1800.00"
+BandId End
+BandId Begin
+Value = "1804.00"
+BandId End
+BandId Begin
+Value = "1808.00"
+BandId End
+BandId Begin
+Value = "1812.00"
+BandId End
+BandId Begin
+Value = "1816.00"
+BandId End
+BandId Begin
+Value = "1820.00"
+BandId End
+BandId Begin
+Value = "1824.00"
+BandId End
+BandId Begin
+Value = "1828.00"
+BandId End
+BandId Begin
+Value = "1832.00"
+BandId End
+BandId Begin
+Value = "1836.00"
+BandId End
+BandId Begin
+Value = "1840.00"
+BandId End
+BandId Begin
+Value = "1844.00"
+BandId End
+BandId Begin
+Value = "1848.00"
+BandId End
+BandId Begin
+Value = "1852.00"
+BandId End
+BandId Begin
+Value = "1856.00"
+BandId End
+BandId Begin
+Value = "1860.00"
+BandId End
+BandId Begin
+Value = "1864.00"
+BandId End
+BandId Begin
+Value = "1868.00"
+BandId End
+BandId Begin
+Value = "1872.00"
+BandId End
+BandId Begin
+Value = "1876.00"
+BandId End
+BandId Begin
+Value = "1880.00"
+BandId End
+BandId Begin
+Value = "1884.00"
+BandId End
+BandId Begin
+Value = "1888.00"
+BandId End
+BandId Begin
+Value = "1892.00"
+BandId End
+BandId Begin
+Value = "1896.00"
+BandId End
+BandId Begin
+Value = "1900.00"
+BandId End
+BandId Begin
+Value = "1904.00"
+BandId End
+BandId Begin
+Value = "1908.00"
+BandId End
+BandId Begin
+Value = "1912.00"
+BandId End
+BandId Begin
+Value = "1916.00"
+BandId End
+BandId Begin
+Value = "1920.00"
+BandId End
+BandId Begin
+Value = "1924.00"
+BandId End
+BandId Begin
+Value = "1928.00"
+BandId End
+BandId Begin
+Value = "1932.00"
+BandId End
+BandId Begin
+Value = "1936.00"
+BandId End
+BandId Begin
+Value = "1940.00"
+BandId End
+BandId Begin
+Value = "1944.00"
+BandId End
+BandId Begin
+Value = "1948.00"
+BandId End
+BandId Begin
+Value = "1952.00"
+BandId End
+BandId Begin
+Value = "1956.00"
+BandId End
+BandId Begin
+Value = "1960.00"
+BandId End
+BandId Begin
+Value = "1964.00"
+BandId End
+BandId Begin
+Value = "1968.00"
+BandId End
+BandId Begin
+Value = "1972.00"
+BandId End
+BandId Begin
+Value = "1976.00"
+BandId End
+BandId Begin
+Value = "1980.00"
+BandId End
+BandId Begin
+Value = "1984.00"
+BandId End
+BandId Begin
+Value = "1988.00"
+BandId End
+BandId Begin
+Value = "1992.00"
+BandId End
+BandId Begin
+Value = "1996.00"
+BandId End
+BandId Begin
+Value = "2000.00"
+BandId End
+BandId Begin
+Value = "2004.00"
+BandId End
+BandId Begin
+Value = "2008.00"
+BandId End
+BandId Begin
+Value = "2012.00"
+BandId End
+BandId Begin
+Value = "2016.00"
+BandId End
+BandId Begin
+Value = "2020.00"
+BandId End
+BandId Begin
+Value = "2024.00"
+BandId End
+BandId Begin
+Value = "2028.00"
+BandId End
+BandId Begin
+Value = "2032.00"
+BandId End
+BandId Begin
+Value = "2036.00"
+BandId End
+BandId Begin
+Value = "2040.00"
+BandId End
+BandId Begin
+Value = "2044.00"
+BandId End
+BandId Begin
+Value = "2048.00"
+BandId End
+BandId Begin
+Value = "2052.00"
+BandId End
+BandId Begin
+Value = "2056.00"
+BandId End
+BandId Begin
+Value = "2060.00"
+BandId End
+BandId Begin
+Value = "2064.00"
+BandId End
+BandId Begin
+Value = "2068.00"
+BandId End
+BandId Begin
+Value = "2072.00"
+BandId End
+BandId Begin
+Value = "2076.00"
+BandId End
+BandId Begin
+Value = "2080.00"
+BandId End
+BandId Begin
+Value = "2084.00"
+BandId End
+BandId Begin
+Value = "2088.00"
+BandId End
+BandId Begin
+Value = "2092.00"
+BandId End
+BandId Begin
+Value = "2096.00"
+BandId End
+BandId Begin
+Value = "2100.00"
+BandId End
+BandId Begin
+Value = "2104.00"
+BandId End
+BandId Begin
+Value = "2108.00"
+BandId End
+BandId Begin
+Value = "2112.00"
+BandId End
+BandId Begin
+Value = "2116.00"
+BandId End
+BandId Begin
+Value = "2120.00"
+BandId End
+BandId Begin
+Value = "2124.00"
+BandId End
+BandId Begin
+Value = "2128.00"
+BandId End
+BandId Begin
+Value = "2132.00"
+BandId End
+BandId Begin
+Value = "2136.00"
+BandId End
+BandId Begin
+Value = "2140.00"
+BandId End
+BandId Begin
+Value = "2144.00"
+BandId End
+BandId Begin
+Value = "2148.00"
+BandId End
+BandId Begin
+Value = "2152.00"
+BandId End
+BandId Begin
+Value = "2156.00"
+BandId End
+BandId Begin
+Value = "2160.00"
+BandId End
+BandId Begin
+Value = "2164.00"
+BandId End
+BandId Begin
+Value = "2168.00"
+BandId End
+BandId Begin
+Value = "2172.00"
+BandId End
+BandId Begin
+Value = "2176.00"
+BandId End
+BandId Begin
+Value = "2180.00"
+BandId End
+BandId Begin
+Value = "2184.00"
+BandId End
+BandId Begin
+Value = "2188.00"
+BandId End
+BandId Begin
+Value = "2192.00"
+BandId End
+BandId Begin
+Value = "2196.00"
+BandId End
+BandId Begin
+Value = "2200.00"
+BandId End
+BandId Begin
+Value = "2204.00"
+BandId End
+BandId Begin
+Value = "2208.00"
+BandId End
+BandId Begin
+Value = "2212.00"
+BandId End
+BandId Begin
+Value = "2216.00"
+BandId End
+BandId Begin
+Value = "2220.00"
+BandId End
+BandId Begin
+Value = "2224.00"
+BandId End
+BandId Begin
+Value = "2228.00"
+BandId End
+BandId Begin
+Value = "2232.00"
+BandId End
+BandId Begin
+Value = "2236.00"
+BandId End
+BandId Begin
+Value = "2240.00"
+BandId End
+BandId Begin
+Value = "2244.00"
+BandId End
+BandId Begin
+Value = "2248.00"
+BandId End
+BandId Begin
+Value = "2252.00"
+BandId End
+BandId Begin
+Value = "2256.00"
+BandId End
+BandId Begin
+Value = "2260.00"
+BandId End
+BandId Begin
+Value = "2264.00"
+BandId End
+BandId Begin
+Value = "2268.00"
+BandId End
+BandId Begin
+Value = "2272.00"
+BandId End
+BandId Begin
+Value = "2276.00"
+BandId End
+BandId Begin
+Value = "2280.00"
+BandId End
+BandId Begin
+Value = "2284.00"
+BandId End
+BandId Begin
+Value = "2288.00"
+BandId End
+BandId Begin
+Value = "2292.00"
+BandId End
+BandId Begin
+Value = "2296.00"
+BandId End
+BandId Begin
+Value = "2300.00"
+BandId End
+BandId Begin
+Value = "2304.00"
+BandId End
+BandId Begin
+Value = "2308.00"
+BandId End
+BandId Begin
+Value = "2312.00"
+BandId End
+BandId Begin
+Value = "2316.00"
+BandId End
+BandId Begin
+Value = "2320.00"
+BandId End
+BandId Begin
+Value = "2324.00"
+BandId End
+BandId Begin
+Value = "2328.00"
+BandId End
+BandId Begin
+Value = "2332.00"
+BandId End
+BandId Begin
+Value = "2336.00"
+BandId End
+BandId Begin
+Value = "2340.00"
+BandId End
+BandId Begin
+Value = "2344.00"
+BandId End
+BandId Begin
+Value = "2348.00"
+BandId End
+BandId Begin
+Value = "2352.00"
+BandId End
+BandId Begin
+Value = "2356.00"
+BandId End
+BandId Begin
+Value = "2360.00"
+BandId End
+BandId Begin
+Value = "2364.00"
+BandId End
+BandId Begin
+Value = "2368.00"
+BandId End
+BandId Begin
+Value = "2372.00"
+BandId End
+BandId Begin
+Value = "2376.00"
+BandId End
+BandId Begin
+Value = "2380.00"
+BandId End
+BandId Begin
+Value = "2384.00"
+BandId End
+BandId Begin
+Value = "2388.00"
+BandId End
+BandId Begin
+Value = "2392.00"
+BandId End
+BandId Begin
+Value = "2396.00"
+BandId End
+BandId Begin
+Value = "2400.00"
+BandId End
+BandId Begin
+Value = "2404.00"
+BandId End
+BandId Begin
+Value = "2408.00"
+BandId End
+BandId Begin
+Value = "2412.00"
+BandId End
+BandId Begin
+Value = "2416.00"
+BandId End
+BandId Begin
+Value = "2420.00"
+BandId End
+BandId Begin
+Value = "2424.00"
+BandId End
+BandId Begin
+Value = "2428.00"
+BandId End
+BandId Begin
+Value = "2432.00"
+BandId End
+BandId Begin
+Value = "2436.00"
+BandId End
+BandId Begin
+Value = "2440.00"
+BandId End
+BandId Begin
+Value = "2444.00"
+BandId End
+BandId Begin
+Value = "2448.00"
+BandId End
+BandId Begin
+Value = "2452.00"
+BandId End
+BandId Begin
+Value = "2456.00"
+BandId End
+BandId Begin
+Value = "2460.00"
+BandId End
+BandId Begin
+Value = "2464.00"
+BandId End
+BandId Begin
+Value = "2468.00"
+BandId End
+BandId Begin
+Value = "2472.00"
+BandId End
+BandId Begin
+Value = "2476.00"
+BandId End
+BandId Begin
+Value = "2480.00"
+BandId End
+BandId Begin
+Value = "2484.00"
+BandId End
+BandId Begin
+Value = "2488.00"
+BandId End
+BandId Begin
+Value = "2492.00"
+BandId End
+BandId Begin
+Value = "2496.00"
+BandId End
+BandId Begin
+Value = "2500.00"
+BandId End
+RasterInfo End
+DatasetHeader End

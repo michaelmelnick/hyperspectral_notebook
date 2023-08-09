@@ -1,0 +1,17 @@
+ENVI
+description = {
+Corescan Pty Ltd, Core Height Image}
+samples = 514
+lines = 3123
+bands = 1
+header offset = 0
+file type = ENVI Standard
+data type = 4
+interleave = bil
+byte order = 0
+map info = {Arbitrary, 1, 1, -0.0565000000101049, -44.1960999766771, 0.0002, 0.0002, 1, units=Meters}
+pixel size = {0.0002, 0.0002, units=Meters}
+band names = {
+Height}
+wavelength = { Height}
+bbl = { 1 }

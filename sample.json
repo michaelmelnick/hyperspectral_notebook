@@ -1,0 +1,68 @@
+{
+    "ImageFiles": {
+        "VNIR": {
+            "image_to_calibrate": "Frame 0240_50fpsuncropped.tif",
+            "white_ref": "calibration_data/spectralon 0.15ms.tif",
+            "dark_ref": "calibration_data/dark 0.15ms.tif",
+            "5_ref": "calibration_data/ref_5.png",
+            "20_ref": "calibration_data/ref_20.png",
+            "80_ref": "calibration_data/ref_80.png",
+            "99_ref": "calibration_data/ref_99.png"
+        },
+        "SWIR": {
+            "image_to_calibrate": "Frame 0240_50fpsuncropped.tif",
+            "white_ref": "calibration_data/spectralon 0.15ms.tif",
+            "dark_ref": "calibration_data/dark 0.15ms.tif",
+            "5_ref": "calibration_data/ref_5.png",
+            "20_ref": "calibration_data/ref_20.png",
+            "80_ref": "calibration_data/ref_80.png",
+            "99_ref": "calibration_data/ref_99.png"
+        }
+    },
+    "ImageSettings": {
+        "x_start": 0,
+        "y_start": 0,
+        "x_end": "end",
+        "y_end": "end"
+    },
+    "HyperSpectralMetaData": {
+        "VNIR": {
+            "HSType": "VNIR",
+            "HSBandMin": 850,
+            "HSBandMax": 1650,
+            "HSBandWidth": 2.74509804,
+            "HSNumBands": 256,
+            "ImageDimX": 320,
+            "TrueReflectanceValues": [
+                5,
+                20,
+                80,
+                99,
+                100
+            ]
+        },
+        "SWIR": {
+            "HSType": "SWIR",
+            "HSBandMin": 1550,
+            "HSBandMax": 2350,
+            "HSBandWidth": 2.74509804,
+            "HSNumBands": 256,
+            "ImageDimX": 320,
+            "TrueReflectanceValues": [
+                5,
+                20,
+                80,
+                99,
+                100
+            ]
+        }
+    },
+    "AnalysisSettings": {
+        "CalibrationMethod": "TwoPoint"
+    },
+    "GeneralMetadata": {
+        "Project": "Somewhere",
+        "HolePos": 300,
+        "DateScanned": "04_09_2023"
+    }
+}

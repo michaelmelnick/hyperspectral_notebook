@@ -1,0 +1,37 @@
+DatasetHeader Begin
+Description = "Corescan Pty Ltd, Core Height Image"
+Name = "JA0464_18423_0001_20190207135542_00.procProf3d.ers"
+SensorName = "HCI_3I_REV02"
+Version = "6.0"
+DataSetType = ERStorage
+DataType = Raster
+ByteOrder = LSBFirst
+DataFile = "JA0464_18423_0001_20190207135542_00.procProf3d.bin"
+CoordinateSpace Begin
+Datum = "RAW"
+Projection = "RAW"
+CoordinateType = EN
+Rotation = 0:0:0.0
+Units = "METERS"
+CoordinateSpace End
+RasterInfo Begin
+NrOfLines = 3123
+NrOfCellsPerLine = 514
+NrOfBands = 1
+RegistrationCellX = 273
+RegistrationCellY = 3123
+CellType = IEEE4ByteReal
+NullCellValue = -9999
+CellInfo Begin
+Xdimension = 0.0002
+Ydimension = 0.0002
+CellInfo End
+RegistrationCoord Begin
+Eastings = -0.00210000001010485
+Northings = -44.8204999766771
+RegistrationCoord End
+BandId Begin
+Value = "Height"
+BandId End
+RasterInfo End
+DatasetHeader End
